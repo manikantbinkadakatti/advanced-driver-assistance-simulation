@@ -1,4 +1,4 @@
-# ADAS Simulation System 🚗🧠
+# ADAS Simulation System 
 
 ## Overview
 This project simulates an **Advanced Driver Assistance System (ADAS)** using **ROS2**, **Gazebo**, and **Computer Vision** techniques. The system replicates real-world driving conditions including lane markings, traffic lights, and road symbols for testing autonomous navigation capabilities.
